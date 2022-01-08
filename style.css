@@ -1,0 +1,50 @@
+body {
+    background-color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+
+td {
+    border: 3px solid white;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+
+.xo {
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    padding: 20px;
+    margin: 40px;
+    align-items: center;
+    border-radius: 0px;
+    font-size: 15px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#score {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.text {
+    color: white;
+    margin: 40px;
+    padding: 10px;
+}
